@@ -1,0 +1,1 @@
+alert('bonjour, je suis une une nouvelle page');
